@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>One Click Faceless — Einmalig 1.800 € | Jetzt sichern</title>
+  <title>One Click Faceless — OCF | Jetzt sichern</title>
 
   <!-- Moderne Schrift -->
   <link href="<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
