@@ -6,7 +6,8 @@
   <title>One Click Faceless — Einmalig 1.800 € | Jetzt sichern</title>
 
   <!-- Moderne Schrift -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link href="<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+" rel="stylesheet">
 
   <style>
     :root{
@@ -162,7 +163,7 @@
 
     .cols{display:grid;grid-template-columns:1fr 1fr;gap:20px}
     .steps{display:flex;flex-direction:column;gap:12px;margin-top:8px}
-    .step{display:flex;gap:12px;align-items:flex-start;background:linear-gradient(180deg,#fff,#f6f6f7);padding:12px;border-radius:12px;border:1px solid var(--muted)}
+    .step{display:flex;gap:12px;align-items:flex-start;background:linear-gradient(180deg,#adabab,#f6f6f7);padding:12px;border-radius:12px;border:1px solid var(--muted)}
 
     .faq .q{margin-bottom:10px;border-radius:12px;overflow:hidden;border:1px solid var(--muted);background:linear-gradient(180deg,#fff,#fafafa)}
     .faq button{width:100%;text-align:left;padding:14px 16px;background:transparent;border:0;font-weight:700;font-size:15px;cursor:pointer}
@@ -236,7 +237,7 @@
       </div>
 
       <aside class="card" aria-hidden="false">
-        <div class="image" style="background-image:url('https://images.unsplash.com/photo-1526378728251-99a1be06b5b9?auto=format&fit=crop&w=1200&q=60');"></div>
+        <div class="image" style="background-image:url('https://i.pinimg.com/1200x/cc/84/49/cc8449c90a4b19a0d856eb0f205a0da5.jpg');"></div>
 
         <div style="margin-top:12px;">
           <div style="display:flex;justify-content:space-between;align-items:center">
