@@ -6,7 +6,7 @@
   <title>One Click Faceless — Einmalig 1.800 € | Jetzt sichern</title>
 
   <!-- Moderne Schrift -->
-  <link href="<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<link href="<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 " rel="stylesheet">
 
   <style>
